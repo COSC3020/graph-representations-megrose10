@@ -1,6 +1,6 @@
 function convertToAdjList(adjMatrix) {
   let adjList = [];
-  if(adjMatrix.length == 0) {
+  if(adjMatrix == [][]) {
     return adjList;
   }
   else {
