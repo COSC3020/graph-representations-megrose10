@@ -8,6 +8,7 @@ does contain the solution, so you can have a look at it if you get stuck, but
 try not to peek before attempting to solve it on your own.
 
 I went to Ali Torabi's office hours to disuss runtime analysis. 
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
 ## Runtime Analysis
 
