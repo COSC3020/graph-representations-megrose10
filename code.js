@@ -6,6 +6,7 @@ function convertToAdjList(adjMatrix) {
   else {
       //Use nested for loops to traverse through matrix
     for(let i = 0; i < adjMatrix.length; i++) {
+      adjList[i] = [];
       for(let j = 0; j < adjMatrix.length; j++) {
         if(adjMatrix[i][j] == 1) {
           adjList[i].push(j);
