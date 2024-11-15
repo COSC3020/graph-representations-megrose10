@@ -7,7 +7,7 @@ function; I've provided some basic testing code that uses
 does contain the solution, so you can have a look at it if you get stuck, but
 try not to peek before attempting to solve it on your own.
 
-I went to Ali Torabi's office hours. 
+I went to Ali Torabi's office hours to disuss runtime analysis. 
 
 ## Runtime Analysis
 
